@@ -1,0 +1,90 @@
+ 
+
+ 
+  .text {
+    background-image: url(./4__.jpg) ;
+    width:100%;
+    background-position: 0px 250px;
+    background-size:100%;
+    color: white;
+    padding: 80px;
+    opacity: 1;
+    text-align:left;
+    background-repeat: no-repeat;
+     
+  }
+ 
+
+  .column {
+    float: left;
+    width: 33.33%;
+
+  }
+
+  #img1 {
+    height: 250px;
+    
+  }
+
+  #img2 {
+    height: 250px;
+    
+  }
+
+  #img3 {
+    height: 250px;
+    
+  }
+
+  
+
+  .wrap {
+    position: relative;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: initial;
+    min-height: 100vh;
+    transition: all 0.2s linear;
+     
+  }
+
+  .item {
+    padding: 80px;
+  }
+
+  .button1 {
+    color:white;
+    border-width: 2px;
+    position: relative;
+    display: block;
+    border: 1px solid white;
+    left: -285px;
+    top: -50px;
+    width: 150px;
+    border-radius: 30px;
+    cursor: pointer;
+    background: none;
+     
+  }
+
+  .button2 {
+    position: relative;
+    border: 1px solid white;
+    left: -260px;
+    bottom: 50px;
+    width: 150px;
+    color:white;
+    border-radius: 100px;
+    background:none;
+    cursor: pointer;
+     
+  }
+  #logo
+  {
+    width: 100px;
+    height:80px;
+     
+    
+  }
+  
